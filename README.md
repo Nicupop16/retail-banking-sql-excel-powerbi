@@ -3,55 +3,20 @@
 
 ## About the Project
 
-This is a personal portfolio project created to practice data analysis and banking reporting using SQL, Excel and Power BI.
-
-I worked with an existing retail banking dataset containing 2,000 customers and 50,000 transactions.
-
-The main goal was to analyze customer information, banking transactions and account balances, and to check the consistency of the results across different tools.
-
+This is a personal portfolio project created to practice data analysis and banking reporting using SQL, Excel and Power BI. I worked with an existing retail banking dataset containing 2,000 customers and 50,000 transactions, where the main goal was to analyze customer information, banking transactions and account balances, and to check the consistency of the results across different tools.
 ## Tools Used
 
--SQLite / DB Browser for SQLite — querying and aggregating data
-
--Microsoft Excel — Pivot Tables, formulas and result validation
-
--Power BI Desktop — dashboards and financial reporting
-
--GitHub — project documentation and file sharing
+I used SQLite / DB Browser for SQLite — querying and aggregating data, Microsoft Excel:Pivot Tables, formulas and result validation, Power BI Desktop — dashboards and financial reporting and GitHub for project documentation and file sharing.
 
 ## SQL Analysis
 
-I used SQL to analyze:
-
-Customer distribution and KYC status
-
-Deposits and withdrawals
-
-Transaction activity by branch
-
-Account balances by account type
-
-Data quality, including missing IDs, duplicate IDs and unmatched transactions
-
-SQL concepts practiced include JOIN, LEFT JOIN, GROUP BY, ORDER BY, COUNT, SUM, AVG and DISTINCT.
+-I used SQL to analyze:Customer distribution and KYC status, Deposits and withdrawals, Transaction activity by branch, Account balances by account type andData quality, including missing IDs, duplicate IDs and unmatched transactions
+-SQL concepts practiced include JOIN, LEFT JOIN, GROUP BY, ORDER BY, COUNT, SUM, AVG and DISTINCT.
 
 ## Excel Analysis
 
 I used Excel to recreate and validate selected SQL results.
-
-The workbook includes:
-
-Pivot Tables
-
-COUNTIF and COUNTIFS
-
-SUMIF and AVERAGEIF
-
-XLOOKUP and VLOOKUP
-
-IF formulas
-
-Balance reconciliation between Excel and SQL
+The workbook includes:Pivot Tables, COUNTIF and COUNTIFS, SUMIF and AVERAGEIF, XLOOKUP and VLOOKUP, IF formulas and Balance reconciliation between Excel and SQL.
 
 ## Power BI Report
 
